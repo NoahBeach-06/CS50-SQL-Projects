@@ -1,5 +1,3 @@
-# CS50-SQL-Projects
-
 # CS50 SQL - Harvard University
 
 This repository contains my solutions for **CS50's Introduction to Databases with SQL**. 
