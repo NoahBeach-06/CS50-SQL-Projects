@@ -14,5 +14,6 @@ computational physics work.
 
 ## WEEK 1
 **Focus:** Relating
+* Covered one-to-one, one-to-many, and many-to-many relations, and modelled them using Entity Relationship Diagrams.
 * 
 
