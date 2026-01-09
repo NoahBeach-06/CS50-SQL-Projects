@@ -6,7 +6,7 @@ As a Physics student at Carleton University, I am completing this course to buil
 stronger foundation in data management and relational logic to supplement my 
 computational physics work.
 
-## Week 0: Cyberchase
+## Week 0
 **Focus:** Basic Querying
 * Practiced retrieving data from a SQLite database using `SELECT`.
 * Applied filtering logic using `WHERE`, `IN`, `LIKE`, and Boolean operators.
