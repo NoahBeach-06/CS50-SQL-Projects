@@ -9,11 +9,10 @@ computational physics work.
 ## Week 0
 **Focus:** Querying
 * Practiced retrieving data from a SQLite database using `SELECT`.
-* Applied filtering logic using `WHERE`, `IN`, `LIKE`, and Boolean operators.
+* Applied filtering logic using `WHERE`, `LIKE`, and Boolean operators.
 * Used aggregate functions like `COUNT` and `AVG` to summarize dataset properties.
 
 ## WEEK 1
 **Focus:** Relating
 * Covered one-to-one, one-to-many, and many-to-many relations, and modelled them using Entity Relationship Diagrams.
-* Applied subqueries
-
+* Practiced more advanced queries using concepts such as subqueries and `IN`. 
