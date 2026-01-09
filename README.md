@@ -12,7 +12,7 @@ computational physics work.
 * Applied filtering logic using `WHERE`, `LIKE`, and Boolean operators.
 * Used aggregate functions like `COUNT` and `AVG` to summarize dataset properties.
 
-## WEEK 1
+## Week 1
 **Focus:** Relating
 * Covered one-to-one, one-to-many, and many-to-many relations, and modelled them using Entity Relationship Diagrams.
 * Practiced more advanced queries using concepts such as subqueries and `IN`. 
