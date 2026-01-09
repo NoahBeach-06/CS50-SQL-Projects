@@ -7,7 +7,12 @@ stronger foundation in data management and relational logic to supplement my
 computational physics work.
 
 ## Week 0
-**Focus:** Basic Querying
+**Focus:** Querying
 * Practiced retrieving data from a SQLite database using `SELECT`.
 * Applied filtering logic using `WHERE`, `IN`, `LIKE`, and Boolean operators.
 * Used aggregate functions like `COUNT` and `AVG` to summarize dataset properties.
+
+## WEEK 1
+**Focus:** Relating
+* 
+
