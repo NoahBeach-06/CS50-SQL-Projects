@@ -18,3 +18,7 @@ computational physics work.
 * Practiced more advanced queries using concepts such as subqueries and `IN`.
 * Used `JOIN` operations (including `LEFT JOIN` and `NATURAL JOIN`) to query and interpret relational data.
 * Applied **set operations** (`UNION`, `INTERSECT`, `EXCEPT`) and **grouping logic** (`GROUP BY`, `HAVING`) to synthesize and filter multi-dimensional datasets.
+
+## Week 2
+**Focus:** Designing
+*
