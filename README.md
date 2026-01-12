@@ -21,4 +21,7 @@ computational physics work.
 
 ## Week 2
 **Focus:** Designing
-*
+* Learned the principles of **normalization** to reduce data redundancy and improve data integrity.
+* Explored the differences between **storage classes**, **data types**, and **type affinities** in SQLite.
+* Modified existing database structures using `ALTER TABLE` to `RENAME`, `ADD`, or `DROP` columns.
+* Developed **database schemas** by determining how to best structure data into tables, columns, and relationships.
