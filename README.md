@@ -29,6 +29,6 @@ computational physics work.
 ## Week 3
 **Focus:** Writing
 * Implemented **Create, Read, Update, and Delete** operations to modify database contents.
-* Inserted and imported data using `INSERT INTO` and imported CSV files using `.import`.
+* Inserted data using `INSERT INTO` and imported CSV files using `.import`.
 * Explored the use of **foreign key constraints** in maintaining referential integrity between related tables.
 * Applied **triggers** and **soft deletion** techniques to manage data lifecycle without permanently removing records.
