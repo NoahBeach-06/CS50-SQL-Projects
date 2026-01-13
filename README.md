@@ -25,3 +25,10 @@ computational physics work.
 * Explored the differences between **storage classes**, **data types**, and **type affinities** in SQLite.
 * Modified existing database structures using `ALTER TABLE` to `RENAME`, `ADD`, or `DROP` columns.
 * Developed **database schemas** by determining how to best structure data into tables, columns, and relationships.
+
+## Week 3
+**Focus:** Writing
+* Implemented **Create, Read, Update, and Delete** operations to modify database contents.
+* Inserted and imported data using `INSERT INTO` and imported CSV files using `.import`.
+* Explored the use of **foreign key constraints** in maintaining referential integrity between related tables.
+* Applied **triggers** and **soft deletion** techniques to manage data lifecycle without permanently removing records.
