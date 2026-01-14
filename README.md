@@ -32,3 +32,7 @@ computational physics work.
 * Inserted data using `INSERT INTO` and imported CSV files using `.import`.
 * Explored the use of **foreign key constraints** in maintaining referential integrity between related tables.
 * Applied **triggers** and **soft deletion** techniques to manage data lifecycle without permanently removing records.
+
+## Week 4
+**Focus:** Viewing
+*
