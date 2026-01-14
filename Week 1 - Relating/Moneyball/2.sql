@@ -1,0 +1,3 @@
+SELECT "year" , "salary" FROM "salaries" JOIN "players" ON "salaries"."player_id" = "players"."id"
+WHERE "players"."first_name" LIKE '%Cal%' AND "players"."last_name" LIKE '%Ripken%'
+ORDER BY "year" DESC;
