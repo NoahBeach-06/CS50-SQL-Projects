@@ -39,3 +39,7 @@ computational physics work.
 * Used views for **aggregation** and **partitioning** to analyze subsets of data more effectively.
 * Implemented **temporary views** with `CREATE TEMPORARY VIEW` for intermediate and session-scoped queries.
 * Applied **Common Table Expressions (CTEs)** to structure multi-step queries clearly.
+
+## Week 5
+**Focus:** Optimizing
+*
