@@ -50,4 +50,8 @@ computational physics work.
 
 ## Week 6
 **Focus:** Scaling
-*
+* Compared **SQLite**, **MySQL**, and **PostgreSQL**, and explored MySQL and PostgreSQL data types, including integers, strings, dates/times, real numbers, and fixed-precision numeric types.
+* Explored scalability strategies, including **vertical scaling** and **horizontal scaling**.
+* Identified risks of **SQL injection attacks** and mitigated them using **prepared statements**.
+* Analyzed distributed database techniques such as **replication** and **sharding** while exploring configurations such as **asynchronous replication**, **synchronous replication**, **single-leader**, **multi-leader**, and **leaderless** models.
+* Implemented access control using `GRANT` and `REVOKE`.
