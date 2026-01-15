@@ -42,4 +42,12 @@ computational physics work.
 
 ## Week 5
 **Focus:** Optimizing
+* Improved query performance using indexes, covering indexes, and partial indexes with `CREATE INDEX`.
+* Analyzed query execution strategies with `EXPLAIN QUERY PLAN` to identify bottlenecks.
+* Implemented transactions using `BEGIN TRANSACTION`, `COMMIT`, and `ROLLBACK`.
+* Applied **ACID principles** (Atomicity, Consistency, Isolation, Durability) to ensure reliable database operations.
+* Identified and mitigated race conditions through proper locking and transactional design.
+
+## Week 6
+**Focus:** Scaling
 *
